@@ -13,7 +13,8 @@ server_names = {
     '143casys11': 'E3-SSD-3',
     '143casys10': 'E3-SSD-2',
     '143casys13': 'E3-SSD-1’,
-    '142sys4': 'SYS-IP-1'
+    '142sys4': 'SYS-IP-1',
+    '142sys5': 'SYS-IP-2
 }
 
 while True:
